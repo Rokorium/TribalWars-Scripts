@@ -13,7 +13,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 var version = "1.13.2 Rehosted by Rokoria";
 var scriptName = "LA Enhancer (1.13.2) - Rehosted by Rokoria";
 var scriptURL = "https://charles-cox-2022.github.io/TribalWars-Scripts/LootEnhancer/";
-var updateNotesURL = "https://web.archive.org/web/20240307223803/https://forum.tribalwars.net/index.php?threads/ntoombs19s-fa-filter.266604/page-15#post-7053294";
+    var updateNotesURL = "https://charles-cox-2022.github.io/TribalWars-Scripts/LootEnhancer/ReadMe.md";
 var working = true;
 var resourcesLoaded = false;
 var scriptLoaded = false;
