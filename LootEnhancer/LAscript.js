@@ -108,7 +108,7 @@ var keyPressSettings = {
     "defaultButton": "Skip"
 };
 var availableLangs = ["en", "es", "el", "ar", "it"];
-window.top.$.getScript(scriptURL + 'lib/jstorage.js', function () {
+window.top.$.getScript(scriptURL + 'jstorage.js', function () {
     window.top.$.getScript(scriptURL + "resources.js", function () {
         if (window.top.$.jStorage.get("language") == null) {
             setDefaultLanguage();
