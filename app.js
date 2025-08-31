@@ -1,3 +1,3 @@
-javascript: (function () {
+(function () {
     alert("Hello from your Tribal Wars script!");
 })();
