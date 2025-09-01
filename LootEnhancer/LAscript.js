@@ -12,8 +12,8 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 
 var version = "1.13.2 Rehosted by Rokoria";
 var scriptName = "LA Enhancer (1.13.2) - Rehosted by Rokoria";
-var scriptURL = "https://charles-cox-2022.github.io/TribalWars-Scripts/LootEnhancer/";
-    var updateNotesURL = "https://charles-cox-2022.github.io/TribalWars-Scripts/LootEnhancer/ReadMe.md";
+    var scriptURL = "https://scripts.rokorium.com/LootEnhancer/";
+    var updateNotesURL = "https://scripts.rokorium.com/LootEnhancer/ReadMe.md";
 var working = true;
 var resourcesLoaded = false;
 var scriptLoaded = false;
