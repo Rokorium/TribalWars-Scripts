@@ -1,14 +1,14 @@
 {
   "name": "tribalwars-scripts",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A collections of Tribal Wars scripts to enhance gameplay.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Rokoria",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^9.34.0"
   }
